@@ -1,0 +1,114 @@
+/* 
+  Localizable.strings
+  Upscale
+
+  Created by INFORAAM on 08/05/17.
+  Copyright © 2017 krutik. All rights reserved.
+*/
+
+"Are you sure ?" = "Are you sure ?";
+"Home" = "Home";
+"Logout" = "Logout";
+"Cancel" = "Cancel";
+"Save" = "Save";
+
+"My Profile" = "My Profile";
+"My History" = "My History";
+"Notifications" = "Notifications";
+"Share The App" = "Share The App";
+"About Us" = "About Us";
+"Our Location" = "Our Location";
+"Chat With Us" = "Chat with us";
+
+"Meeting Room" = "Meeting Room";
+"Desk" = "Desk";
+"Discussion Room" = "Discussion Room";
+"Private Room" = "Private Room";
+"Conference Room" = "Conference Room";
+"Others" = "Others";
+
+"Sign Up" = "Sign Up";
+"Login" = "Login";
+"List Your Space" = "List Your Space";
+"Packages" = "Packages";
+
+"Book Now" = "Book Now";
+"CANCEL" = "CANCEL";
+
+"Bank Name" = "Bank Name";
+"Iban No" = "Iban No";
+"Account No" = "Account No";
+
+
+"ADD MORE" = "ADD MORE";
+"Wish List" = "Wish List";
+"Email" = "Email";
+
+"Projector(s)" = "Projector(s)";
+"Air Conditioner" = "Air Conditioner";
+"Mail service" = "Mail service";
+"Scanner / Printer" = "Scanner / Printer";
+"Lockers" = "Lockers";
+"WiFi / Internet" = "WiFi / Internet";
+"Parking Space" = "Parking Space";
+"Phone" = "Phone";
+"Work 24 / h" = "Work 24 / h";
+"Coffee/Tea" = "Coffee/Tea";
+"Male" = "Male";
+"Female" = "Female";
+"SAR per hour" = "SAR per hour";
+
+"Booking now" = "Booking now";
+
+"( More )" = "( More )";
+
+"Mob." = "Mob.";
+"E-mail" = "E-mail";
+"Thank You" = "Thank You";
+"Add More Space" = "Add More";
+
+"Feedback Placeholder" = "Please write here your querries or complaints , we will get back to you soon . Thank you.";
+"Feedback" = "Feedback";
+
+"Forgot Password ?" = "Forgot Password ?";
+"Enter Your E-mail" = "Enter Your E-mail";
+"Send" = "Send";
+"Change Password" = "Change Password";
+"OTP" = "OTP";
+"Re-type New Password" = "Re-type New Password";
+"RESET" = "RESET";
+
+
+
+"Terms" = "By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. We are offering you this app to use for your own personal use without cost, but you should be aware that you cannot send it on to anyone else, and you’re not allowed to copy, or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages, or make derivative versions. The app itself, and all the trade marks, copyright, database rights and other intellectual property rights related to it, still belong to Hive.";
+
+"Terms2" = "At the bottom of these terms and conditions you will be able to find links to our website where we set out our Privacy Policy, Acceptable Use of the app, and the general Terms and Conditions for Guest & Visitors, which will be relevant if you use the app to book visits with Hive in the future.";
+
+"Terms3" = "Hive is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for";
+
+
+"About" = "HiVe is a global network of work-spaces where companies and people grow together. We transform buildings into dynamic environments for creativity, focus, and connection.";
+
+"+ 1000 Customers" = "+ 1000 Customers";
+"With over 1000 members, access networking, advice, and opportunities in your ‘hood or across the planet." = "With over 1000 members, access networking, advice, and opportunities in your ‘hood or across the planet.";
+
+"+50 Premium work spaces" = "+50 Premium work spaces";
+"You focus on your to-do’s, we take care of the rest. Enjoy included front-desk service, utilities, refreshments, and more." = "You focus on your to-do’s, we take care of the rest. Enjoy included front-desk service, utilities, refreshments, and more.";
+
+"H24 Support" = "H24 Support";
+"We’ve become experts in what you need to get work done happily—from brainstorming rooms to phone booths and terraces. Provided by 24/H Live chat support through website." = "We’ve become experts in what you need to get work done happily—from brainstorming rooms to phone booths and terraces. Provided by 24/H Live chat support through website.";
+
+
+
+
+"About2" = "Hive is the Hub for Business Centers, Coworking spaces, meeting rooms, shared Offices and that Connects, Enables and Advises SMEs, Freelancers and Entrepreneurs by Connecting them with the experts and resources in each field.";
+
+"About3" = "Hive is a coworking space that connects SMEs, entrepreneurs, freelancers, Startups & professionals together as a business hub. Hive is a platform that lists Spaces, desks, business centers & meeting rooms around you.";
+
+"About4" = "Hive allows you to book, compare, and access the space without any human interaction. Hive even allows you to list your space and join the movement which increases you occupancy rate by attracting more visitors & members.";
+
+"About5" = "On-demand workspace, when you need it. Book a coworking space, business center, or shared office space nearby.";
+
+"About6" = "Discover spaces to use by the hour, day, or even monthly membership.";
+
+
